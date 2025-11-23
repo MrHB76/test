@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend fejlesztő",
+    "company": "Acme Kft.",
+    "county": "Budapest",
+    "type": "Teljes munkaidő",
+    "description": "React, TypeScript ismeret. Szép UI-k építése.",
+    "postedAt": "2025-11-20T10:00:00Z",
+    "applyUrl": "https://acme.example.com/apply/1"
+  },
+  {
+    "id": "2",
+    "title": "Gépészmérnök",
+    "company": "Mechanika Zrt.",
+    "county": "Győr-Moson-Sopron",
+    "type": "Teljes munkaidő",
+    "description": "CAD és gyártási tapasztalat.",
+    "postedAt": "2025-11-15T09:00:00Z",
+    "applyUrl": "https://mechanika.example.com/apply/2"
+  },
+  {
+    "id": "3",
+    "title": "Pénzügyi asszisztens",
+    "company": "Számvitel Bt.",
+    "county": "Pest",
+    "type": "Részmunkaidő",
+    "description": "Számlakezelés, banki egyeztetés.",
+    "postedAt": "2025-11-10T08:30:00Z",
+    "applyUrl": "https://szamvitel.example.com/apply/3"
+  }
+]
